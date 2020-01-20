@@ -1,0 +1,4 @@
+#!/bin/sh
+docker-compose run \
+	-e "JEKYLL_UID=`id -u`" -e "JEKYLL_GID=`id -g`" \
+	--rm --service-ports jekyll "$@"

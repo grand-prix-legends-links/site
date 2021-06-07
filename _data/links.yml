@@ -68,10 +68,10 @@
     comment: ozpata's srmz thread
   - title: GPL Track Database
     link: http://gpltd.bcsims.com/
-    comment: 593 Tracks and counting
+    comment: 650 tracks and counting
   - title: GPL Track Db update
-    link: http://www.grandprixlegends.co.nf/GPLTD/
-    comment: Latest releases not yet implemented in the full site.
+    link: http://grandprixlegends.c1.biz/GPLTD/
+    comment: Alternative to GPL Track Database
   - title: GPL Wiki Mirror
     link: http://gplps.autosimsport.net
     comment: A mirror for the GPLPS Wiki
@@ -85,8 +85,9 @@
   - title: Tuto  installation GPL & Add Ons
     link: http://multirc.pagesperso-orange.fr/gpl/accueil.html
     comment: Un site en français complet pour installer facilement tous les Carsets GPL et GEM +
-  - title: Visit Lee Bowden's Site
+  - title: GPL Motorworks
     link: http://gplmotorworks.gplworld.de/
+    comment: Lee Bowden's website with patches
   - title: demo GPL 2013 F1Legends
     link: http://srmz.net/index.php?showtopic=12639
 - title: To Do's if You're New to GPL
@@ -97,7 +98,7 @@
     link: http://srmz.net/index.php?showtopic=2434&view=findpost&p=16635
     comment: SRMZ
   - title: GPLEA
-    link: http://www.grandprixlegends.co.nf/GPLEA/
+    link: http://grandprixlegends.c1.biz/GPLEA/
     comment: with latest Hondas
   - title: GPLEA Mirror
     link: http://gplea.autosimsport.net
@@ -114,6 +115,9 @@
     link: http://wiki.grandprixlegends.info/index.php?title=GPL_FAQ_and_troubleshooting_guide
   - title: Get Ranked at GPLRank
     link: http://gplrank.schuerkamp.de/
+  - title: Get Ranked at Custom Rank
+    link: http://www.formulado.hu/crank/
+    comment: An alternative to GPLRank with new ranks and options
   - title: Learn about expected behaviour when racing on-line
     link: http://wiki.grandprixlegends.info/index.php?title=GPL_Recommended_Driver_Behaviour
   - title: Get GPL Race Engineer
@@ -136,7 +140,7 @@
   links:
   - title: GPL Weekly
     link: http://www.formulado.hu/weekly/
-    comment: League News
+    comment: League Racing News Page
   - title: GPL2RPM
     link: http://fela.hys.cz/
   - title: iGOR VROC GEM+ Racelist Update

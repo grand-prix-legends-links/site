@@ -136,6 +136,7 @@
     link: https://www.youtube.com/watch?v=MlpZWjbzz-A
   - title: Get Hagapito40's GPL Mod Specific Desktop Icons
     link: http://srmz.net/index.php?showtopic=12012&hl=
+
 - title: GPL On-line Leagues
   links:
   - title: GPL Weekly
@@ -150,28 +151,56 @@
   - title: 60FPS On-line Use
     link: http://srmz.net/index.php?showtopic=12365
     comment: for off-line see Tech Section & SRMZ
-  - title: GPL Clandestines Trophy
+
+  - title: Average Drivers Club / Virtual Online Racers
+    link: http://www.tomjsr.com/
+  - title: Clandestines Trophy 
     link: http://gpl-clandestines-trophy.webnode.com/
-  - title: GPL Panamerican League
-    link: http://gplpanamericanleague.foroactivo.com/login
-  - title: GPLBRASIL
-    link: https://gplbrasil.webnode.com/
-    comment: 30 Temporados
-  - title: Grand Prix Argentina
+  - title: European Online Challenge
+    link: http://www.eolc.de/
+  - title: Fun-Liga
+    link: http://213567.homepagemodules.de/?cat=11760549
+  - title: Gentlemens League
+    link: http://gpl-geli.de/
+  - title: Grand Prix Argentina League
     link: http://grandprix-argentina.foroactivo.com/
+  - title: GPLBrasil
+    link: http://gplbrasil.webnode.com/
+  - title: GPLRacer
+    link: http://www.gplracer.eu/
+  - title: Groundhog League
+    link: http://www.formulado.hu/weekly/?p:rules/
+  - title: Historic F1 Esports League
+    link: http://f1historicesports.com/
+  - title: Ligue Belge de GPL
+    link: http://www.lbgpl.be/
   - title: League of Perpetual Novice Racers
-    link: http://lopen.autosimsport.net
-    comment: LoPeN since 2002
-  - title: Liga Panamericana GPL
-    link: http://ligapanamericanagpl.foroargentina.net/
-  - title: PDLR
-    link: http://pdlr.gaiztor.com/
-    comment: Spanish GPL website
-  - title: 'Virtual Online Racers '
-    link: http://forums.speedgeezers.net/index.php?showforum=34
-  - title: oAo
+    link: http://lopen.autosimsport.net/
+  - title: Mybroga Motorsport
+    link: https://www.facebook.com/groups/486883451352137/
+  - title: Online Autoracing Organization
     link: http://oao-gpl.speedgeezers.net/
-    comment: online Autoracing organization
+  - title: PanAm
+    link: http://gplpanamericanleague.foroactivo.com/
+  - title: PDLR/Gaiztor
+    link: http://pdlr.gaiztor.com/
+  - title: Planete GPL
+    link: https://bit.ly/35VqV62
+  - title: UKGPL
+    link: http://www.ukgpl.com/
+
+  - title: F1 Legends (inactive)
+    link: http://www.formulado.hu/weekly/index.php?p:leagues/7/
+  - title: G. B. GPL (inactive) 
+    link: http://www.formulado.hu/weekly/index.php?p:leagues/1/
+  - title: GPL Espana (inactive)
+    link: http://www.formulado.hu/weekly/index.php?p:leagues/25/
+  - title: GPL League Association (inactive)
+    link: http://www.formulado.hu/weekly/index.php?p:leagues/20/
+  - title: Hungarian GPL Masters (inactive)
+    link: http://hgplm.gtr-masters.hu/
+
+
 - title: GPL Challenges
   links:
   - title: CRank - Custom Rank

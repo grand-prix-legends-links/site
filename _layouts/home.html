@@ -10,8 +10,8 @@ layout: default
   {{ content }}
 
   {% for group in site.data.links %}
-  <h2>{{ group.title | escape }}</h2>
-  <ul style='padding:0px; margin:0px; margin-top:30px; padding-top:10px; border-top:cornflowerblue;'>
+  <h2 style=' margin-top:30px; padding-top:10px; border-top:cornflowerblue;'>{{ group.title | escape }}</h2>
+  <ul style='padding:0px; margin:0px;'>
   {% for link in group.links %}
   <li style='list-style-type:none; padding-left:0px;'>
 	  <strong>

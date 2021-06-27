@@ -214,6 +214,7 @@
   - title: webfoot's Rally Series Calculator
     link: http://srmz.net/index.php?showtopic=5656&#entry45654
     comment: Relive GPL history
+    
 - title: Sim Racing
   links:
   - title: A Simracer's Lament
@@ -238,6 +239,7 @@
     link: http://twhtly.net/tag/grand-prix-legends
   - title: twinpotter's GPL Reviews Compilation
     link: http://srmz.net/index.php?showtopic=8903
+    
 - title: General GPL Sites
   links:
   - title: Alison Hine's GPL Site
@@ -273,6 +275,8 @@
     link: http://fred.pagesgpl.free.fr/Conso/baby/
   - title: gplToM
     link: http://www.gpltom.fr/
+    
+    
 - title: GPL Tracks
   links:
   - title: All Tracks by PolarBlue21
@@ -326,6 +330,8 @@
     link: http://srmz.net/tracks/targa/index.html
   - title: 'Targa Hi-Rez + Sound '
     link: http://srmz.net/index.php?showtopic=12078
+    
+    
 - title: GPL Track Updates
   links:
   - title: 55 Mod Track Updates
@@ -463,6 +469,8 @@
     link: http://srmz.net/index.php?showtopic=3163&st=15#entry133564
   - title: ed76's AI Updates Index
     link: http://srmz.net/index.php?showtopic=8268&view=findpost&p=78787
+    
+    
 - title: GPL Trackbuilding
   links:
   - title: '3DSimED 3.1g '
@@ -504,6 +512,8 @@
     link: http://srmz.net/index.php?showtopic=94#entry105245
   - title: TrkCamEdit Tutorial
     link: http://www.joachimblum.de/trkcamedit.htm
+    
+    
 - title: Carsets - Graphics
   links:
   - title: 1966 Mod F2/F3 ED76 Carsets
@@ -618,6 +628,8 @@
     link: http://srmz.net/index.php?showtopic=9767&st=0
   - title: webfoot's Irridux 68 carset summary
     link: http://srmz.net/index.php?showtopic=12331
+    
+    
 - title: GPL Sounds
   links:
   - title: ACHIM's Big Pile of Sounds Compilation
@@ -653,6 +665,8 @@
     link: http://downloads.ddigest-dl.com/software/download.php?sid=1089&ssid=0&did=375&rid=178216
   - title: Lee's GPL Engine Sounds Patch
     link: http://srmz.net/index.php?showtopic=10258&hl=%20weather%20%20patch&st=0
+    
+    
 - title: Racing History
   links:
   - title: A Second-a-Lap
@@ -710,6 +724,8 @@
     link: https://revslib.stanford.edu/
   - title: The Chicane Blog
     link: http://thechicaneblog.com/topics/lost-track/
+    
+    
 - title: GPL Utilities / Editors
   links:
   - title: 1967 3D Menus
@@ -777,6 +793,8 @@
     comment: clik on "Utilities I Use"
   - title: WinMip Versions
     link: http://srmz.net/index.php?showtopic=10919&#entry112522
+    
+    
 - title: Replays / Setups
   links:
   - title: Replay Camera Distortion - Solved
@@ -811,6 +829,8 @@
     link: http://srmz.net/index.php?showtopic=8467
   - title: Saiph's Can-Am 66 Mod Setups
     link: http://srmz.net/index.php?showtopic=12370&#entry133266
+    
+    
 - title: Technical Stuff
   links:
   - title: Alison's Logitech Formula Force Page
@@ -976,6 +996,8 @@
     link: http://srmz.net/index.php?showtopic=9953&st=0&gopid=99897&#entry99897
   - title: unknown Message for Fatal Error
     link: http://srmz.net/index.php?showtopic=11775
+    
+    
 - title: GPL Driving School
   links:
   - title: Anatomy of a Corner
@@ -1007,6 +1029,8 @@
     comment: Jens C. Linblad
   - title: Trail Braking
     link: http://srmz.net/index.php?showtopic=11491
+    
+    
 - title: Track Guides
   links:
   - title: Guias de Pistas
@@ -1017,6 +1041,8 @@
   - title: The Ring of Fire
     link: http://www.gpljunk.nildram.co.uk/
     comment: 'goto: Nurburgring Guide'
+    
+    
 - title: GPL Movie/Photo
   links:
   - title: 1955 Mod Promo Movie
@@ -1048,6 +1074,8 @@
     comment: Links to GPL movies
   - title: 'Top Five Tracks '
     link: http://srmz.net/index.php?showtopic=12123
+
+
 - title: GPL Forums
   links:
   - title: GPL Alternative
@@ -1059,11 +1087,8 @@
     link: http://steamcommunity.com/groups/GrandPrixLegends
   - title: GPL4U
     link: http://www.gpl1967.dk/GPLDK/forum.php
-  - title: Racing Fr - dedicated to GPL french forum
-    link: http://www.racingfr.com/forum/index.php?showforum=16
-    comment: ' Forum français dans le même esprit que SRMZ '
-  - title: nogripracing GPL Forum
-    link: http://www.nogripracing.com/forum/forumdisplay.php?f=18
+    
+
 - title: Archival
   links:
   - title: 1967 F2 Mod Original Site

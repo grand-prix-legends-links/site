@@ -4,7 +4,7 @@ source "https://rubygems.org"
 gem "minima", "~> 2.0"
 
 # Current version: https://github.com/github/pages-gem
-gem "github-pages", "~> 225", group: :jekyll_plugins
+gem "github-pages", "~> 226", group: :jekyll_plugins
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do

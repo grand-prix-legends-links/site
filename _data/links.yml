@@ -743,8 +743,11 @@
     comment: srmz thread with link to GPLToM
   - title: GPL Driver Editor (beta)
     link: http://srmz.net/index.php?showtopic=12110
+  - title: GPL Fanatic
+    link: http://home.planet.nl/~aquisate/index.htm
+    comment: MECH's GPLRecord, CarSwitcher and MixDriver tools
   - title: GPL FOG
-    link: http://srmz.net/index.php?showtopic=6600&hl=%20weather%20%20patch&st=0
+    link: http://srmz.net/index.php?showtopic=6600&
     comment: MECH's fog tool
   - title: GPL GLANCE
     link: http://srmz.net/index.php?showtopic=2856#entry13904

@@ -8,7 +8,8 @@ gem "github-pages", "~> 228", group: :jekyll_plugins
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.6"
+#  let's try without this, because it seems to trigger security warnings and to my knowledge we do not provide feeds
+#  gem "jekyll-feed", "~> 0.6"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

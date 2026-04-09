@@ -1,4 +1,6 @@
-# Grand Prix Legends Links [gpllinks.org](https://gpllinks.org)
+# Grand Prix Legends Links (formerly known as gpllinks.org)
+
+See: https://grand-prix-legends-links.github.io/site/
 
 This page is a community curated link list for the 1998 video game
 [Grand Prix Legends](https://en.wikipedia.org/wiki/Grand_Prix_Legends).
